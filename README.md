@@ -24,7 +24,7 @@ Everyday I am striving to learn new things about code, engage with the creative 
 <a href="https://steamcommunity.com/profiles/76561198094917421/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
   
 ### Catch what I've been writing about:
-- [Blog posts on Medium](https://dev.to/mishmanners](https://medium.com/@k.kotynski) ✍🏻
+- [Blog posts on Medium](https://medium.com/@k.kotynski) ✍🏻
 
 ### GitHub Stats:
 
