@@ -29,9 +29,3 @@ Everyday I am striving to learn new things about code, engage with the creative 
 ### GitHub Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kotynskm&theme=tokyonight)](https://git.io/streak-stats)
-  
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/kotynskm/kotynskm/blob/output/github-contribution-grid-snake.svg)
-
