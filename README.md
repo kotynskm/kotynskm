@@ -3,7 +3,7 @@
 Hi everyone! I'm Kailey 👋🏻
 Everyday I am striving to learn new things about code, engage with the creative GitHub community, and explore the digital universe! 
 
-- ✨ I’m currently working on solving Leetcode challenges and learning how to be a better problem solver.
+- ✨ I’m currently studying data structures and learning how to be a better problem solver.
 - 🌱 I’m currently learning Python, JavaScript, SQL, React
 - ⚡ Fun fact: I am learning show jumping! 🐎 🐴
 
