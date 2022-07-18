@@ -1,5 +1,3 @@
-![drew-beamer-3SIXZisims4-unsplash](https://user-images.githubusercontent.com/29113012/179621870-47b329b2-5db6-4c26-a43a-b0c51bb63b0f.jpg)
-
 ## About Me
 
 Hi everyone! I'm Kailey 👋🏻
