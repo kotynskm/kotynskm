@@ -1,4 +1,4 @@
-## About Me
+## 🌸 About Me
 
 Hi everyone! I'm Kailey 👋🏻
 Everyday I am striving to learn new things about code, engage with the creative GitHub community, and explore the digital universe! 
@@ -8,7 +8,7 @@ Everyday I am striving to learn new things about code, engage with the creative 
 - ⚡ Fun fact: I am learning show jumping! 🐎 🐴
 
 
-### Find out more about me:
+### My socials:
 
 <p align="left">
 <a href="https://twitter.com/k_kotynski" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
@@ -18,7 +18,7 @@ Everyday I am striving to learn new things about code, engage with the creative 
 <a href="https://www.youtube.com/user/Kae201/videos" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
 
 
-### I also love to game! Look for me here:
+### I also love to game:
 
 <a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
 <a href="https://steamcommunity.com/profiles/76561198094917421/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
